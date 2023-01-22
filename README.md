@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sudhanshusingh-g
+- 👋 Hi, I’m Sudhanshu Singh,Web developer.
 - 👀 I’m interested in Front-end web development
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on UI and Web Development Projects
