@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Sudhanshu Singh,Web developer.
-- 👀 I’m interested in Front-end web development
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on UI and Web Development Projects
-- 📫 Feel free to connect with www.linkedin.com/in/sudhanshu-singh32
+- 👋 Hi, I’m Sudhanshu Singh.
+- 👀 I’m a full stack developer.
+- 🌱 Learning new trends and technologies which includes Data Analytics,UX Designing,AI/ML.
+- 💞️ I’m looking to collaborate on web development and UI/UX designing projects.
+- 📫 Feel free to connect with me on www.linkedin.com/in/sudhanshu-singh32.
 
 <!---
 sudhanshusingh-g/sudhanshusingh-g is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
