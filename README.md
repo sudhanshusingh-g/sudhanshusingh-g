@@ -20,7 +20,7 @@
 ### I’m Sudhanshu Singh
 - 💻 a full stack developer.
 - 🌱 Learning new trends and technologies which includes Data Analytics,UX Designing,AI/ML.
-- 👀 I’m looking to collaborate on web development and UI/UX designing projects.
+- 🤝🏻 Available for collaboration.
 
 ### Languages and Tools
 
