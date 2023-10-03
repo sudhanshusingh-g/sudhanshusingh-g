@@ -32,7 +32,7 @@
  <img src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" title="mongoDB"  alt="mongoDB" width="40" height="40"/>&nbsp;
  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
- <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" alt="Git" width="64" height="64"/>&nbsp;
+ <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" title="Figma"  alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" title="NodeJS"  alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" title="React"  alt="React" width="40" height="40"/>&nbsp;
