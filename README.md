@@ -49,7 +49,3 @@
   
 </div>
 
-### My Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sudhanshusingh-g)](https://git.io/streak-stats)
-### Languages Used
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sudhanshusingh-g)](https://github.com/sudhanshusingh-g/github-readme-stats)
