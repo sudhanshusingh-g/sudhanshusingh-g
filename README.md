@@ -22,6 +22,10 @@
 - 🌱 Learning new trends and technologies which includes Data Analytics,UX Designing,AI/ML.
 - 🤝🏻 Available for collaboration.
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sudhanshusingh-g)](https://git.io/streak-stats)
+
+
+
 ### Languages and Tools
 
 <div>
