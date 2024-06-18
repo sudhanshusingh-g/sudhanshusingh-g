@@ -18,7 +18,7 @@
 - 🤝🏻 Available for collaboration..
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sudhanshusingh-g)](https://git.io/streak-stats)
-
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudhanshusingh-g&theme=default
 
 
 ### Languages and Tools
