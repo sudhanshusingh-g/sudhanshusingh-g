@@ -15,7 +15,7 @@
 - 🌱 Learning new trends and technologies which includes Data Analytics, UX Designing, AI/ML.
 - 🤝🏻 Available for collaboration.
 
-<div style={display:"flex"}>
+<div id="header" align="center" style="display: flex; justify-content: center; align-items: center;">
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sudhanshusingh-g)](https://git.io/streak-stats)
 
