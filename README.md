@@ -15,10 +15,12 @@
 - 🌱 Learning new trends and technologies which includes Data Analytics, UX Designing, AI/ML.
 - 🤝🏻 Available for collaboration.
 
+<div style={display:"flex"}>
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sudhanshusingh-g)](https://git.io/streak-stats)
-[![Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudhanshusingh-g&theme=default)](https://github.com/sudhanshusingh-g)
 
 [![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sudhanshusingh-g&theme=default&exclude=css)](https://github.com/sudhanshusingh-g)
+</div>
 
 ### Languages and Tools
 
