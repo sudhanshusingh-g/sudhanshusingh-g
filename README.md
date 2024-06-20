@@ -22,5 +22,3 @@
 [![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sudhanshusingh-g&theme=default&exclude=css)](https://github.com/sudhanshusingh-g)
 </div>
 
-### Languages and Tools
-
