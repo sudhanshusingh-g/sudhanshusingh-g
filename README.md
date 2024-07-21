@@ -16,7 +16,7 @@
 - 🤝🏻 Available for collaboration.
 
 <div id="header" align="center" style="display: flex; justify-content: center; align-items: center;">
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sudhanshusingh-g)](https://git.io/streak-stats)
 
 [![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sudhanshusingh-g&theme=default&exclude=css)](https://github.com/sudhanshusingh-g)
 </div>
