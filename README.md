@@ -19,7 +19,7 @@
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=sudhanshusingh-g&theme=dark)](https://git.io/streak-stats)
 
-[![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sudhanshusingh-g&theme=dark&exclude=css)](https://github.com/sudhanshusingh-g)
+
 
 </div>
 
