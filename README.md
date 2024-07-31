@@ -16,10 +16,17 @@
 - 🤝🏻 Available for collaboration.
 
 <div id="header" align="center" style="display: flex; justify-content: center; align-items: center;">
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=sudhanshusingh-g&theme=dark)](https://git.io/streak-stats)
-
-
-
+  <a href="https://github.com/sudhanshusingh-g">
+    <img src="https://streak-stats.demolab.com?user=sudhanshusingh-g&theme=dark" alt="GitHub Streak"/>
+  </a>
 </div>
 
+### Languages and Tools:
+<div id="badges" align="center">
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript Badge"/>
+  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white" alt="React Badge"/>
+  <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge"/>
+  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
+  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
+</div>
