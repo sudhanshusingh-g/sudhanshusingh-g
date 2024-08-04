@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/Python-teal?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
   <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white" alt="React Badge"/>
   <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge"/>
-  <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java8&logoColor=white" alt="Java Badge"/>
+  <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=oracle&logoColor=white" alt="Java Badge"/>
   <img src="https://img.shields.io/badge/MySQL-grey?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/>
   <img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge"/>
   <img src="https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=springboot&logoColor=white" alt="SpringBoot Badge"/>
