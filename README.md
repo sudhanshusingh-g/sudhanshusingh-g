@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
   <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white" alt="React Badge"/>
   <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge"/>
-  <img src="https://img.shields.io/badge/Java?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
+  <img src="https://img.shields.io/badge/Java?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge"/>
   <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
   <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
   <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
