@@ -24,10 +24,11 @@
 ### Languages and Tools:
 <div id="badges" align="center">
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript Badge"/>
-  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/Python-teal?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
   <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white" alt="React Badge"/>
   <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge"/>
   <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge"/>
-  <img src="https://img.shields.io/badge/SQL-gray?style=for-the-badge&logo=sql&logoColor=white" alt="SQL Badge"/>
+  <img src="https://img.shields.io/badge/MySQL-grey?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/>
+  <img src="https://img.shields.io/badge/MongoDBL-green?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge"/>
   <img src="https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=springboot&logoColor=white" alt="SpringBoot Badge"/>
 </div>
