@@ -22,7 +22,7 @@
 </div>
 
 ### Languages and Tools:
-<div id="badges" align="center">
+<div id="badges">
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript Badge"/>
   <img src="https://img.shields.io/badge/Python-cyan?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
   <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=oracle&logoColor=white" alt="Java Badge"/>
