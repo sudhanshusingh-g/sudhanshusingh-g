@@ -15,11 +15,7 @@
 - 🌱 Learning new trends and technologies which includes Data Analytics, UX Designing, AI/ML.
 - 🤝🏻 Available for collaboration.
 
-<div id="header" align="center" style="display: flex; justify-content: center; align-items: center;">
-  <a href="https://github.com/sudhanshusingh-g">
-    <img src="https://streak-stats.demolab.com?user=sudhanshusingh-g&theme=dark" alt="GitHub Streak"/>
-  </a>
-</div>
+
 
 ### Languages and Tools:
 <div id="badges">
