@@ -20,13 +20,17 @@
 
 
 ## &nbsp; Languages and Tools:
-<div id="badges">
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript Badge"/>
-  <img src="https://img.shields.io/badge/Python-cyan?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
-  <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=oracle&logoColor=white" alt="Java Badge"/>
-  <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white" alt="React Badge"/>
-  <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge"/>
-  <img src="https://img.shields.io/badge/MySQL-grey?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/>
-  <img src="https://img.shields.io/badge/MongoDB-teal?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge"/>
-  <img src="https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=springboot&logoColor=white" alt="SpringBoot Badge"/>
-</div>
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Tailwind-informational?style=flat&logo=tailwindcss&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-IntelliJ-informational?style=flat&logo=intellijideaide&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)
