@@ -14,7 +14,7 @@
 ### I’m Sudhanshu Singh
 - 💻 a full stack developer.
 - 🌱 Learning new trends and technologies which includes Data Analytics, UX Designing, AI/ML.
-- 🤝🏻 Available for collaboration..
+- 🤝🏻 Available for collaboration.
 --------------
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanshusingh-g&hide=javascript,css,scss,html&theme=tokyonight)
 
