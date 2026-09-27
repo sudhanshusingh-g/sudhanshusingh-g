@@ -10,7 +10,7 @@
   <img src="https://media1.giphy.com/media/jTMw980OBX5YEAulPm/200w.webp?cid=ecf05e47j9zw1kwjhpjfz4gl5081x8mumvwrmjlzomk0e7na&ep=v1_stickers_search&rid=200w.webp&ct=s" width="100px"/>
 </div>
 
-## 👨🏻‍💻 &nbsp;About Me
+## 👨🏻‍💻About Me
 ### I’m Sudhanshu Singh
 - 💻 a full stack developer.
 - 🌱 Learning new trends and technologies which includes Data Analytics, UX Designing, AI/ML.
@@ -19,7 +19,7 @@
 
 
 
-## &nbsp; Languages and Tools
+## Languages and Tools
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=oracle&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
