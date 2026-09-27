@@ -19,7 +19,7 @@
 
 
 
-## &nbsp; Languages and Tools:
+## &nbsp; Languages and Tools
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=oracle&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
