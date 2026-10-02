@@ -13,7 +13,7 @@
 ## 👨🏻‍💻About Me
 ### I’m Sudhanshu Singh
 - 💻 a full stack developer.
-- 🌱 Learning new trends and technologies which includes Data Analytics, UX Designing, AI/ML.
+- 🌱 Learning new trends and technologies which includes Data Analytics, UX Designing, AI/ML..
 - 🤝🏻 Available for collaboration.
 --------------
 
